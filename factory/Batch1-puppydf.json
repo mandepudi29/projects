@@ -1,0 +1,9 @@
+{
+	"name": "Batch1-puppydf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c27d6d92-d836-411e-aff8-0cde7b229383",
+		"tenantId": "6ebd3fa9-fee4-49f8-898d-50c5aebd9c16"
+	}
+}
